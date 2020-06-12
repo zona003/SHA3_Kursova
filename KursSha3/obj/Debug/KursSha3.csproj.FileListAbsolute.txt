@@ -1,0 +1,56 @@
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\bin\Debug\KursSha3.exe
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\bin\Debug\KursSha3.pdb
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.csprojAssemblyReference.cache
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.Main.resources
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.Properties.Resources.resources
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.GenerateResource.cache
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.CoreCompileInputs.cache
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.exe
+C:\Users\CMSDeveloper\Desktop\KursSha3\KursSha3\obj\Debug\KursSha3.pdb
+D:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.exe.config
+D:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.exe
+D:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.pdb
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.csprojAssemblyReference.cache
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.Main.resources
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.Properties.Resources.resources
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.GenerateResource.cache
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.CoreCompileInputs.cache
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.exe
+D:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.pdb
+E:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.exe.config
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.exe
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.pdb
+E:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.exe
+E:\111!!\KursSha3\KursSha3\bin\Debug\KursSha3.pdb
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.csprojResolveAssemblyReference.cache
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.Main.resources
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.Properties.Resources.resources
+E:\111!!\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.GenerateResource.Cache
+D:\Roma\!KURSACH\KursSha3\KursSha3\bin\Debug\KursSha3.exe.config
+D:\Roma\!KURSACH\KursSha3\KursSha3\bin\Debug\KursSha3.exe
+D:\Roma\!KURSACH\KursSha3\KursSha3\bin\Debug\KursSha3.pdb
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.csprojAssemblyReference.cache
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.Main.resources
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.Properties.Resources.resources
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.GenerateResource.cache
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.CoreCompileInputs.cache
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.exe
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.pdb
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.Authors.resources
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.AboutProgram.resources
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.FileUsingInstruction.resources
+D:\Roma\!KURSACH\KursSha3\KursSha3\obj\Debug\KursSha3.Instruction.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\bin\Debug\KursSha3.exe.config
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\bin\Debug\KursSha3.exe
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\bin\Debug\KursSha3.pdb
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.csprojAssemblyReference.cache
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.AboutProgram.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.Authors.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.FileUsingInstruction.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.Instruction.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.Main.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.Properties.Resources.resources
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.GenerateResource.cache
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.csproj.CoreCompileInputs.cache
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.exe
+C:\Users\CMSDeveloper\Desktop\Roman\!!!!Kursova- 1st kurs\KursSha3\KursSha3\obj\Debug\KursSha3.pdb
